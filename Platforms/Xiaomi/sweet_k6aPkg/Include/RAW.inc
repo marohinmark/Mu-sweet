@@ -1,3 +1,13 @@
+  FILE FREEFORM = 28035A03-0D4A-40B4-971E-F2527832B997 {
+    SECTION UI = "Panel_K9A_36_02_0a_mp_amoled_dsc_cmd.xml"
+    SECTION RAW = Binaries/sweet_k6a/RawFiles/Panel_K9A_36_02_0a_mp_amoled_dsc_cmd.xml
+  }
+ 
+  FILE FREEFORM = AB95C40E-A14E-41F1-90B9-2CBF3FF735A7 {
+    SECTION UI = "Panel_K9A_36_02_0a_p2_amoled_dsc_cmd.xml"
+    SECTION RAW = Binaries/sweet_k6a/RawFiles/Panel_K9A_36_02_0a_p2_amoled_dsc_cmd.xml
+  }
+  
   FILE FREEFORM = A91D838E-A5FA-4138-825D-455E2303079E {
     SECTION UI = "BDS_Menu.cfg"
     SECTION RAW = Binaries/sweet_k6a/RawFiles/BDS_Menu.cfg
@@ -38,15 +48,7 @@
     SECTION RAW = Binaries/sweet_k6a/RawFiles/Panel_K9A_36_02_0a_p1_amoled_dsc_cmd.xml
   }
 
-  FILE FREEFORM = AB95C40E-A14E-41F1-90B9-2CBF3FF735A7 {
-    SECTION UI = "Panel_K9A_36_02_0a_p2_amoled_dsc_cmd.xml"
-    SECTION RAW = Binaries/sweet_k6a/RawFiles/Panel_K9A_36_02_0a_p2_amoled_dsc_cmd.xml
-  }
 
-  FILE FREEFORM = 28035A03-0D4A-40B4-971E-F2527832B997 {
-    SECTION UI = "Panel_K9A_36_02_0a_mp_amoled_dsc_cmd.xml"
-    SECTION RAW = Binaries/sweet_k6a/RawFiles/Panel_K9A_36_02_0a_mp_amoled_dsc_cmd.xml
-  }
 
   FILE FREEFORM = 62146B52-0581-4CF9-8177-2F353257807F {
     SECTION UI = "Panel_K9A_42_02_0b_mp_amoled_dsc_cmd.xml"
