@@ -1,0 +1,11 @@
+[Defines]
+  DEC_SPECIFICATION              = 0x00010005
+  PACKAGE_NAME                   = sweet
+  PACKAGE_GUID					 = 318e5c55-1d4d-454c-a690-ca34755b963c
+  PACKAGE_VERSION                = 1.0
+
+[Includes.common]
+  Include                         # Root include for the package
+
+[Guids.common]
+  gsweetTokenSpaceGuid       = { 0x318e5c55, 0x1d4d, 0x454c, { 0xa6, 0x90, 0xca, 0x34, 0x75, 0x5b, 0x96, 0x3c } }
